@@ -2,8 +2,7 @@
 <h3 align="center">I am a student undergraduate, I have experience with data analysis, I write in python and R.</h3>
 
 - ⚡ Interested in **bioinformatics and data science**
-
-<h3 align="left">Connect with me:</h3>
+- 
 <p align="left">
 </p>
 
